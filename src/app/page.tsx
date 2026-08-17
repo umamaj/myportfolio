@@ -26,16 +26,16 @@ export default function Home() {
       <section id="home" className="relative h-screen bg-[url(/my-portfolio/background.JPG)] bg-center bg-cover bg-no-repeat flex flex-col items-center justify-center text-center">
         <div className="absolute inset-0 bg-black/60"></div> 
         <h1 className="relative text-6xl text-white font-medium">
-          Muhammad Ammar
+          Umama Junejo
         </h1>
         <p className='relative text-lg font-medium text-gray-200 mt-4'>
-          Software Engineer | CS @ UW & GTech | Ex-Intern @ Tesla
+          Industrial & Systems Engineering @ UW 
         </p>
 
         {/* icons */}
         <div className='flex gap-10 mt-8'>
           <a
-            href="https://www.linkedin.com/in/muhammad-ammar-96776b236/"
+            href="https://www.linkedin.com/in/umama-junejo-699703339/"
             target="_blank"
             rel="noopener noreferrer"
             className="relative rounded-4xl size-10 items-center justify-center flex bg-gray-100 shadow-lg hover:bg-gray-400 transition duration-300"
@@ -63,7 +63,7 @@ export default function Home() {
           </a>
 
           <a
-            href="mailto:muhammadammar.cs@gmail.com"
+            href="mailto:umamajunejo22@gmail.com"
             target="_blank"
             rel="noopener noreferrer"
             className="relative rounded-4xl size-10 items-center justify-center flex bg-gray-100 shadow-lg hover:bg-gray-400 transition duration-300"
