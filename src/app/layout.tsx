@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Muhammad Ammar",
+  title: "Umama Junejo",
   description: "portfolio website using next",
 };
 
